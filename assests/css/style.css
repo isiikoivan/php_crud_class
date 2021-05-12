@@ -1,0 +1,58 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap'); */
+
+@font-face {
+  font-family: Montserrat;
+  src: url('../fonts/Montserrat-Regular.ttf');
+  color: #fff;
+}
+.container{
+  background-color: #58045f;
+}
+/* body, html {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 14px;
+        color:  #58045f;
+        background-color: #FFFFFF;
+} */
+
+.text_secondary{
+  color: rgb(20, 4, 253) !important;
+
+}
+/* .form-register{
+        padding: 0px auto;
+        margin: 0px auto;
+        float: right;
+        background-color: #58045f !important;
+
+} */
+.form-register .username{
+            padding: 0px auto;
+            font-size: 14px;
+
+          }
+          .form-register  label{
+            padding-top: 5px;
+            font-weight: bold;
+            color: rgb(14, 2, 2);
+          }
+.center button{
+        position: relative;
+        float: center;
+        /* background-color:  #58045f!important; */
+        color: #fff;
+}
+/* .nin{
+  position: relative;
+    float: left;
+    background-color:  #58045f !important;
+    color: #fff;
+} */
+/* .success{
+  color: #ffffff;
+  /* background-color: #fff !important; */
+/* }
+.form-login{
+  float: center;
+    background-color:  #58045f !important;
+} */ 
